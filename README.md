@@ -1,6 +1,6 @@
 # Exercise 02 — Semantic Product Site Map
 
-[Live demo ↗](https://vigneshsrinivasan-sys.github.io/exercise-02-semantic-site-map/) · [HTML source](index.html)
+[Live demo](https://vigneshsrinivasan-sys.github.io/exercise-02-semantic-site-map/) · [HTML source](index.html)
 
 ![Rendered preview](preview.png)
 
