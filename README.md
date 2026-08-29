@@ -1,6 +1,6 @@
 # Exercise 02 — Semantic Product Site Map
 
-[Live demo](https://vigneshsrinivasan-sys.github.io/exercise-02-semantic-site-map/) · [View source](https://github.com/vigneshsrinivasan-sys/exercise-02-semantic-site-map)
+[Live demo ↗](https://vigneshsrinivasan-sys.github.io/exercise-02-semantic-site-map/) · [HTML source](index.html)
 
 ![Rendered preview](preview.png)
 
@@ -25,4 +25,3 @@ A product catalogue uses navigation anchors, repeated article sections, product 
 ## Sequence
 
 **Exercise 02 of 27** · Independent practice
-
