@@ -24,4 +24,4 @@ A product catalogue uses navigation anchors, repeated article sections, product 
 
 ## Sequence
 
-**Exercise 02 of 27** · Independent practice
+**Exercise 02** · Independent practice
